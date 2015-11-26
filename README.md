@@ -3,5 +3,8 @@
 This repository will host the experimental measurements for the occupancy detection tasks.
 It will include a clear description of the data files.
 
-*Description of the data columns (units etc).
+* Description of the data columns(units etc).
+* The scripts to reproduce exploratory figures.
+* The scripts for model training.
+* The commands for model testing.
 
