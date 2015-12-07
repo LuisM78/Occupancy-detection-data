@@ -18,6 +18,8 @@ It includes a clear description of the data files.
 
 Please read the commented lines in the model development file. Install all the packages dependencies before trying to train and test the models.
 
+It is advised to execute each command one by one in case you find any errors/warnings about a missing package. 
+
 Please do not forget to cite the publication! Thank you!
 
 
