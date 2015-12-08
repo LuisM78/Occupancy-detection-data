@@ -22,6 +22,6 @@ It is advised to execute each command one by one in case you find any errors/war
 
 Please do not forget to cite the publication! Thank you!
 
-Keywords: Linear discriminant analysis, Classification and Regression Trees, Random forests, energy conservation in buildings, occupancy detection,  GBM models. 
+Keywords: Linear discriminant analysis, Classification and Regression Trees, Random forests, energy conservation in buildings, occupancy detection,  GBM models. R, Rstudio, Caret, ggplot2.
 
 
