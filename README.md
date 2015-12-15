@@ -2,8 +2,8 @@
 
 This is a repository for data for the publication:
 
-**Accurate occupancy detection of an office room from light, temperature, humidity and CO2 measurements using statistical learning models.** 
-  *Luis M. Candanedo, Véronique Feldheim* **Energy and Buildings** **-In press-**
+** Accurate occupancy detection of an office room from light, temperature, humidity and CO2 measurements using statistical learning models. ** 
+  * Luis M. Candanedo, Véronique Feldheim * ** Energy and Buildings ** **-In press-**
   
 This repository hosts the experimental measurements for the occupancy detection tasks.
 It includes a clear description of the data files.
